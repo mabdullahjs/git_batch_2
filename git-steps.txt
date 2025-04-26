@@ -12,3 +12,11 @@ git config --global user.email "your_github_email"
 github pa aik repo/folder banali
 uska baad usi folder ko computer pa leka ayenga
 git clone "repo url"
+
+
+usi folder ma kaam kiya or visual studio code ma left bar ka third icon (source control) ma jaka commit kiya or code ko push krdia.
+
+
+jab jab changes krainga baar baar commit krka push krta rhainga.
+
+har line baad code push nahi krna jab jab koi feature complete krain ya koi component design krlain ya kaam sa break le rha hon ya kaam off kr rha hon to tab hi commit krka push krna ha
