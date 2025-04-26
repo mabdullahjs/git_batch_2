@@ -1,0 +1,14 @@
+git download
+
+github account
+
+open cmd and paste this commands
+
+git config --global user.name "your_github_username"
+git config --global user.email "your_github_email"
+
+
+
+github pa aik repo/folder banali
+uska baad usi folder ko computer pa leka ayenga
+git clone "repo url"
